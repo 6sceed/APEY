@@ -38,7 +38,7 @@ API keys and provider information are handled locally within the app.
 
 ```bash
 git clone <your-repository-url>
-cd APEY
+cd src
 npm install
 npx expo start
 ```
