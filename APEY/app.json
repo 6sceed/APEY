@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "APEY",
+    "slug": "apey",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#09090b"
+    },
+    "android": {
+      "package": "com.anonymous.apey",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#09090b"
+      }
+    },
+    "ios": {
+      "supportsTablet": true,
+      "icon": "./assets/icon.png"
+    },
+    "plugins": [
+      "expo-status-bar"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "7df42fd7-6c6f-45d7-a3ce-98147b30acd4"
+      }
+    }
+  }
+}

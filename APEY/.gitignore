@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Expo generated files
+.expo/
+
+# Build output
+dist/
+web-build/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+npm-debug.log*
